@@ -1,0 +1,21 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li,#btn {
+    float: right;
+}
+
+.navbar li a, #btn {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+#btn {
+    padding: 8px;
+    background-color: #dddddd;
+}
